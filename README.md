@@ -1,2 +1,1 @@
-# tyetech
-wiz
+# tyetechnologies Software Development
